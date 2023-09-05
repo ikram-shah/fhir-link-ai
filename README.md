@@ -10,4 +10,4 @@
 
 ### Try online on Streamlit
 1. Get OpenAI Key from [OpenAI Platform](platform.openai.com)
-2. Get FHIR Server API endpoint - You may either enter your own sample FHIR server or create a temporary sample server in [Intersystems IRIS FHIR platform](https://learning.intersystems.com/course/view.php?id=1492) (signup needed)
+2. Get FHIR Server API endpoint - You may either enter your own sample FHIR server or create a temporary sample server in [Intersystems IRIS FHIR platform](https://learning.intersystems.com/course/view.php?id=1492) (signup needed - follow till step 2)
